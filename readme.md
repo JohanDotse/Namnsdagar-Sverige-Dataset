@@ -6,6 +6,7 @@ Från och med år **2022** innehåller namnlängden **627 namn**: **310** namn s
 
 > Datasetet är tänkt att vara enkelt att använda i appar, webb, automationer och analys.
 
+
 ## Filformat
 + CSV
 + JSON
