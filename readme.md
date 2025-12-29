@@ -26,4 +26,4 @@ Du kan också skicka en **Pull Request** om du vill bidra med en fix.
 Detta dataset är licensierat under **CC0-1.0** (Public Domain Dedication). Det innebär att du får kopiera, ändra och distribuera materialet utan att ange upphovsperson.
 
 ## Ansvarsfriskrivning
-Datan tillhandahålls i befintligt skick ("as is") och kan innehålla fel eller vara ofullständig. Ingen garanti ges för korrekthet eller lämplighet för ett visst ändamål. Användning sker på egen risk. Detta är inte en officiell källa.
+Datan tillhandahålls i befintligt skick och kan innehålla fel eller vara ofullständig. Ingen garanti ges för korrekthet eller lämplighet för ett visst ändamål. Användning sker på egen risk. Detta är inte en officiell källa.
