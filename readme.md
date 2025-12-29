@@ -1,4 +1,4 @@
-# Sveriges namnsdagar
+# Namnsdagar Sverige
 
 Sveriges namnsdagar sorterade efter datum, formaterade som CSV, JSON och XML.
 
