@@ -1,4 +1,4 @@
-# Namnsdagar Sverige
+# Namnsdagar CSV JSON XML
 
 ### Fileformat
 + CSV
