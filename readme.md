@@ -1,6 +1,6 @@
 # Namnsdag Dataset
 
-Namnsdagar i Sverige sorterade efter datum, formaterade som CSV, JSON och XML.
+Namnsdag dataset sorterad efter datum, formaterade som CSV, JSON och XML.
 
 Datan är strukturerad för att vara enkel att importera och slå upp, oavsett om du bygger en mobilapp, webbplats eller ett API, kör schemalagda automationer eller gör analys i till exempel Python eller Excel. Du kan snabbt hitta namnsdagar per datum och använda listan för filtrering, statistik och visualisering.
 
